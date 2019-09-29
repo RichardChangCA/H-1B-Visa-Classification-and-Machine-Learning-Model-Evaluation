@@ -1,0 +1,37 @@
+\ProvidesPackage{scribe}
+\RequirePackage{epsfig}
+\RequirePackage{graphicx}
+\RequirePackage{color}
+\RequirePackage{fancyheadings}
+%%
+%% Set up the fancy headings
+%%
+\lhead{{\sl University of Ottawa}}
+\chead{}
+\rhead{{\sl CSI 5155 --- Machine Learning}}
+\lfoot{{\sl Project proposal, Fall 2019}}
+\cfoot{}
+\rfoot{\thepage}
+%\headrulewidth 0.4pt
+%\footrulewidth 0.4pt
+\pagestyle{fancy}
+%%
+%% Set up the desired page
+%%
+\hoffset 0pt
+\voffset 0pt
+\oddsidemargin 1.2in
+\evensidemargin \oddsidemargin
+\marginparwidth 0.8in
+\marginparsep   0.2in
+\reversemarginpar
+\textwidth 5.0in
+\headwidth \textwidth
+\addtolength{\headwidth}{\marginparsep}
+\addtolength{\headwidth}{\marginparwidth}
+\parindent 2em
+\parskip 1.5ex
+%%
+\newlength{\toleftedge}
+\setlength{\toleftedge}{\marginparsep}
+\addtolength{\toleftedge}{\marginparwidth}
