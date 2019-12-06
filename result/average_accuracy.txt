@@ -1,0 +1,8 @@
+average accuracy of decision_tree is:0.805524820930368;
+average accuracy of linear_svc is:0.648936170212766;
+average accuracy of knn is:0.6802290185448905;
+average accuracy of gaussianNB is:0.44811083523476253;
+average accuracy of skope_rule is:0.7872340425531915;
+average accuracy of random_forest is:0.7978723404255319;
+average accuracy of boosting is:0.7977479313685525;
+average accuracy of hybrid is:0.763220447554965;

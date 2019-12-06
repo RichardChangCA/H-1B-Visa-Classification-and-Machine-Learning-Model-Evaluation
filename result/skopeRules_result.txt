@@ -1,0 +1,12 @@
+dataset:original;
+fbeta_score:0.8188639807061675;
+confusion_matrix_:[[4016    3]
+ [  19   28]];
+accuracy_score_:0.9945892769306444;
+precision_score_:0.9032258064516129;
+recall_score_:0.5957446808510638;
+auc_score_:0.7974991132545939;
+log_loss_:0.186880344190932;
+test_time_duration:38.708468198776245;
+train_time_duration:52.4332811832428s,
+
